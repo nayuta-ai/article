@@ -10,3 +10,4 @@
 
 ## Kubernetes
 - [ ] [入門Kueue](https://gihyo.jp/article/2022/10/kubernetes-cloudnative-topics-03)
+- [ ] [Kubernetesネットワーク 徹底解説](https://zenn.dev/taisho6339/books/fc6facfb640d242dc7ec/viewer/9187c6)
