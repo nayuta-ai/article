@@ -9,6 +9,7 @@
 ## Storage
 - [ ] [virtio-fs](https://static.sched.com/hosted_files/kvmforum2019/ff/virtio-fs_%20A%20Shared%20File%20System%20for%20Virtual%20Machines.pdf)
 - [ ] [Proxmox VE で VM に virtiofs で ZFS を見せたい](https://akam1o.hatenablog.jp/entry/2023/09/18/210153)
+- [ ] [おうち Kubernetes に最適な Synology 公式の CSI Driver がリリースされた話と Cloning / Snapshot feature deep dive](https://amsy810.hateblo.jp/entry/2021/12/01/061430)
 
 ## Kubernetes
 - [ ] [入門Kueue](https://gihyo.jp/article/2022/10/kubernetes-cloudnative-topics-03)
