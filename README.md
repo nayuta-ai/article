@@ -12,6 +12,6 @@
 - [ ] [おうち Kubernetes に最適な Synology 公式の CSI Driver がリリースされた話と Cloning / Snapshot feature deep dive](https://amsy810.hateblo.jp/entry/2021/12/01/061430)
 
 ## Kubernetes
-- [ ] [入門Kueue](https://gihyo.jp/article/2022/10/kubernetes-cloudnative-topics-03)
+- [x] [入門Kueue](https://gihyo.jp/article/2022/10/kubernetes-cloudnative-topics-03)
 - [ ] [Kubernetesネットワーク 徹底解説](https://zenn.dev/taisho6339/books/fc6facfb640d242dc7ec/viewer/9187c6)
 - [ ] [Hello, Prometheus!! Goで作るexporter自作入門 / 180727 LT](https://speakerdeck.com/kaznishi/180727-lt)
