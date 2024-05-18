@@ -15,6 +15,8 @@
 - [x] [入門Kueue](https://gihyo.jp/article/2022/10/kubernetes-cloudnative-topics-03)
 - [ ] [Kubernetesネットワーク 徹底解説](https://zenn.dev/taisho6339/books/fc6facfb640d242dc7ec/viewer/9187c6)
 - [ ] [Hello, Prometheus!! Goで作るexporter自作入門 / 180727 LT](https://speakerdeck.com/kaznishi/180727-lt)
+- [ ] [Serviceをたずねて3000行 - Kubernetesコードリーディングの旅](https://zenn.dev/ryusa/articles/3000-lines-in-search-of-service)
+- [ ] [[Kubernetes 1.30] kube-proxy の nftables モード](https://zenn.dev/toversus/articles/dcb888d73f0615)
 
 ## DB
 - [x] [FractalDB: LINEヤフーのオンプレミス・マルチテナンシー型データベースシステムの紹介](https://techblog.lycorp.co.jp/ja/20240516b)
