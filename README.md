@@ -20,6 +20,7 @@
 - [ ] [Kubernetes and Checkpoint Restore - Adrian Reber, Red Hat](https://www.youtube.com/watch?v=0RUDoTi-Lw4)
 - [x] [PrometheusからcAdvisorのメトリクスを取得する ~docker runで立ち上げ~](https://qiita.com/FY0323/items/554acc3b497b6a4c8015)
 - [ ] [kubeletのAPIを調べてみた](https://zenn.dev/hhiroshell/articles/getting-started-with-kubelet-api)
+- [ ] [Kubelet authentication/authorization](https://kubernetes.io/docs/reference/access-authn-authz/kubelet-authn-authz/)
 
 ## DB
 - [x] [FractalDB: LINEヤフーのオンプレミス・マルチテナンシー型データベースシステムの紹介](https://techblog.lycorp.co.jp/ja/20240516b)
