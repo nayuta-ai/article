@@ -17,11 +17,14 @@
 - [ ] [Hello, Prometheus!! Goで作るexporter自作入門 / 180727 LT](https://speakerdeck.com/kaznishi/180727-lt)
 - [ ] [Serviceをたずねて3000行 - Kubernetesコードリーディングの旅](https://zenn.dev/ryusa/articles/3000-lines-in-search-of-service)
 - [ ] [[Kubernetes 1.30] kube-proxy の nftables モード](https://zenn.dev/toversus/articles/dcb888d73f0615)
+- [ ] [Introducing KWOK: Kubernetes WithOut Kubelet](https://kubernetes.io/blog/2023/03/01/introducing-kwok/)
+
+### Kublet
 - [ ] [Kubernetes and Checkpoint Restore - Adrian Reber, Red Hat](https://www.youtube.com/watch?v=0RUDoTi-Lw4)
 - [x] [PrometheusからcAdvisorのメトリクスを取得する ~docker runで立ち上げ~](https://qiita.com/FY0323/items/554acc3b497b6a4c8015)
 - [x] [kubeletのAPIを調べてみた](https://zenn.dev/hhiroshell/articles/getting-started-with-kubelet-api)
 - [x] [Kubelet authentication/authorization](https://kubernetes.io/docs/reference/access-authn-authz/kubelet-authn-authz/)
-- [ ] [Introducing KWOK: Kubernetes WithOut Kubelet](https://kubernetes.io/blog/2023/03/01/introducing-kwok/)
+- [ ] [Kubeletを監視する方法](https://sysdig.jp/blog/how-to-monitor-kubelet/)
 
 ## DB
 - [x] [FractalDB: LINEヤフーのオンプレミス・マルチテナンシー型データベースシステムの紹介](https://techblog.lycorp.co.jp/ja/20240516b)
