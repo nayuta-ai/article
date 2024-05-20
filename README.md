@@ -6,6 +6,8 @@
 - [ ] [コンピュートノードネットワーク高速化](https://vos.line-scdn.net/landpress-content-v2_1761/1667294893910.pdf)
 - [x] [DPDKとは？ ～DPDK入門 第1回～](https://www.ntt-tx.co.jp/column/dpdk_blog/20180920/)
 - [x] [VXLANが登場した理由、他の実装との違い、特徴を整理しよう](https://atmarkit.itmedia.co.jp/ait/spv/1412/03/news009.html)
+- [ ] [OVN(Open Virtual Network)で手作業仮想ネットワーク](https://zenn.dev/callus_corn/articles/fb921908ec357d)
+
 ## Storage
 - [ ] [virtio-fs](https://static.sched.com/hosted_files/kvmforum2019/ff/virtio-fs_%20A%20Shared%20File%20System%20for%20Virtual%20Machines.pdf)
 - [ ] [Proxmox VE で VM に virtiofs で ZFS を見せたい](https://akam1o.hatenablog.jp/entry/2023/09/18/210153)
@@ -17,6 +19,7 @@
 - [ ] [Hello, Prometheus!! Goで作るexporter自作入門 / 180727 LT](https://speakerdeck.com/kaznishi/180727-lt)
 - [ ] [Serviceをたずねて3000行 - Kubernetesコードリーディングの旅](https://zenn.dev/ryusa/articles/3000-lines-in-search-of-service)
 - [ ] [[Kubernetes 1.30] kube-proxy の nftables モード](https://zenn.dev/toversus/articles/dcb888d73f0615)
+- [ ] [kube-proxy nftables and iptables vs a Service with 100k endpoints](https://gist.github.com/aojea/f9ca1a51e2afd03621744c95bfdab5b8)
 - [ ] [Introducing KWOK: Kubernetes WithOut Kubelet](https://kubernetes.io/blog/2023/03/01/introducing-kwok/)
 - [x] [Comparing kube-proxy modes: iptables or IPVS?](https://www.tigera.io/blog/comparing-kube-proxy-modes-iptables-or-ipvs/)
 
