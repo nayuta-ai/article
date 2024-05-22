@@ -22,6 +22,7 @@
 - [ ] [kube-proxy nftables and iptables vs a Service with 100k endpoints](https://gist.github.com/aojea/f9ca1a51e2afd03621744c95bfdab5b8)
 - [ ] [Introducing KWOK: Kubernetes WithOut Kubelet](https://kubernetes.io/blog/2023/03/01/introducing-kwok/)
 - [x] [Comparing kube-proxy modes: iptables or IPVS?](https://www.tigera.io/blog/comparing-kube-proxy-modes-iptables-or-ipvs/)
+- [ ] [【ArgoCD🐙】ArgoCDのマイクロサービスアーキテクチャと自動デプロイの仕組み](https://hiroki-hasegawa.hatenablog.jp/entry/2023/05/02/145115)
 
 ### Kublet
 - [ ] [Kubernetes and Checkpoint Restore - Adrian Reber, Red Hat](https://www.youtube.com/watch?v=0RUDoTi-Lw4)
