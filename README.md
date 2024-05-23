@@ -23,7 +23,7 @@
 - [ ] [Introducing KWOK: Kubernetes WithOut Kubelet](https://kubernetes.io/blog/2023/03/01/introducing-kwok/)
 - [x] [Comparing kube-proxy modes: iptables or IPVS?](https://www.tigera.io/blog/comparing-kube-proxy-modes-iptables-or-ipvs/)
 - [x] [【ArgoCD🐙】ArgoCDのマイクロサービスアーキテクチャと自動デプロイの仕組み](https://hiroki-hasegawa.hatenablog.jp/entry/2023/05/02/145115)
-- [ ] [真面目に理解するcontroller-runtime Cache](https://zenn.dev/shuheiktgw/articles/129c26e74750e2)
+- [x] [真面目に理解するcontroller-runtime Cache](https://zenn.dev/shuheiktgw/articles/129c26e74750e2)
 
 ### Kublet
 - [ ] [Kubernetes and Checkpoint Restore - Adrian Reber, Red Hat](https://www.youtube.com/watch?v=0RUDoTi-Lw4)
@@ -37,4 +37,5 @@
 
 ## Software
 - [x] [A Philosophy of Software Design：要約](https://qiita.com/immrshc/items/73f9a9c5d7453273e371)
-- [ ] [後輩「具体じゃなくて抽象に依存してもらえませんか？」〜命名編〜](https://qiita.com/Yametaro/items/caf16bd79402b1c820e6)
+- [x] [後輩「具体じゃなくて抽象に依存してもらえませんか？」〜命名編〜](https://qiita.com/Yametaro/items/caf16bd79402b1c820e6)
+
