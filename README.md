@@ -36,7 +36,7 @@
 - [x] [FractalDB: LINEヤフーのオンプレミス・マルチテナンシー型データベースシステムの紹介](https://techblog.lycorp.co.jp/ja/20240516b)
 - [x] [初心者による初心者のためのRedis解説](https://qiita.com/keinko/items/60c844bcf329bd3f4af8)
 - [ ] [分散合意アルゴリズム Raft を理解する](https://qiita.com/torao@github/items/5e2c0b7b0ea59b475cce)
-- [ ] [[実演]Redis Clusterの仕組みを完全に理解する](https://qiita.com/keitatata/items/44678ad472e61a4606c5)
+- [x] [[実演]Redis Clusterの仕組みを完全に理解する](https://qiita.com/keitatata/items/44678ad472e61a4606c5)
 - [ ] [Redisの冗長化](https://www.sraoss.co.jp/tech-blog/redis/redis-ha/)
 
 ## Software
