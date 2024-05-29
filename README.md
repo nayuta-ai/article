@@ -49,4 +49,5 @@
 - [ ] [Deep Dive into The Go's Web Server](https://zenn.dev/hsaki/books/golang-httpserver-internal)
 - [ ] [よくわかるcontextの使い方](https://zenn.dev/hsaki/books/golang-context)
 - [ ] [Goから学ぶI/O](https://zenn.dev/hsaki/books/golang-io-package)
+- [ ] [Goの言語仕様書精読のススメ & 英語彙集](https://zenn.dev/hsaki/articles/gospecdictionary#%E8%8B%B1%E8%AA%9E%E8%BE%9E%E6%9B%B8)
 
