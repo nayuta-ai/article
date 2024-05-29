@@ -43,3 +43,7 @@
 - [x] [A Philosophy of Software Design：要約](https://qiita.com/immrshc/items/73f9a9c5d7453273e371)
 - [x] [後輩「具体じゃなくて抽象に依存してもらえませんか？」〜命名編〜](https://qiita.com/Yametaro/items/caf16bd79402b1c820e6)
 
+## Golang
+- [ ] [作ってわかる！ はじめてのgRPC](https://zenn.dev/hsaki/books/golang-grpc-starting)
+- [ ] [Goでの並行処理を徹底解剖！](https://zenn.dev/hsaki/books/golang-concurrency)
+
