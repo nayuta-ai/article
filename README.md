@@ -46,4 +46,7 @@
 ## Golang
 - [ ] [作ってわかる！ はじめてのgRPC](https://zenn.dev/hsaki/books/golang-grpc-starting)
 - [ ] [Goでの並行処理を徹底解剖！](https://zenn.dev/hsaki/books/golang-concurrency)
+- [ ] [Deep Dive into The Go's Web Server](https://zenn.dev/hsaki/books/golang-httpserver-internal)
+- [ ] [よくわかるcontextの使い方](https://zenn.dev/hsaki/books/golang-context)
+- [ ] [Goから学ぶI/O](https://zenn.dev/hsaki/books/golang-io-package)
 
