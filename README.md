@@ -59,3 +59,5 @@
 - [ ] [Goから学ぶI/O](https://zenn.dev/hsaki/books/golang-io-package)
 - [ ] [Goの言語仕様書精読のススメ & 英語彙集](https://zenn.dev/hsaki/articles/gospecdictionary#%E8%8B%B1%E8%AA%9E%E8%BE%9E%E6%9B%B8)
 
+## sh
+- [ ] [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
