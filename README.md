@@ -64,3 +64,6 @@
 
 ## sh
 - [ ] [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
+
+## wasm
+- [自作Wasm Runtimeをcontainerdで動かしてみた](https://zenn.dev/skanehira/articles/2023-09-18-rust-wasm-runtime-containerd)
