@@ -28,6 +28,8 @@
 - [x] [真面目に理解するcontroller-runtime Cache](https://zenn.dev/shuheiktgw/articles/129c26e74750e2)
 - [ ] [API Conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md#spec-and-status)
 - [ ] [KubernetesロードバランサーのMetalLBを導入した話(Necoプロジェクト体験入部)](https://blog.cybozu.io/entry/2019/03/25/093000)
+- [ ] [Completing the largest migration in Kubernetes history](https://kubernetes.io/blog/2024/05/20/completing-cloud-provider-migration/)
+- [ ] [詳解 "Fixing For Loops in Go 1.22" 自作linterをgolangci-lintへコントリビュートした話](https://speakerdeck.com/qualiarts/xiang-jie-fixing-for-loops-in-go-1-dot-22-zi-zuo-linterwogolangci-linthekontoribiyutositahua)
 
 ## Argo
 - [ ] [使いこなせ！Argo Workflows / How to use Argo Workflows](https://speakerdeck.com/makocchi/how-to-use-argo-workflows)
