@@ -33,6 +33,7 @@
 - [ ] [Completing the largest migration in Kubernetes history](https://kubernetes.io/blog/2024/05/20/completing-cloud-provider-migration/)
 - [ ] [詳解 "Fixing For Loops in Go 1.22" 自作linterをgolangci-lintへコントリビュートした話](https://speakerdeck.com/qualiarts/xiang-jie-fixing-for-loops-in-go-1-dot-22-zi-zuo-linterwogolangci-linthekontoribiyutositahua)
 - [ ] [OPA/Rego入門](https://zenn.dev/mizutani/books/d2f1440cfbba94)
+- [ ] [seccamp](https://github.com/kyohmizu/seccamp2024-B6?tab=readme-ov-file)
 
 ## Argo
 - [ ] [使いこなせ！Argo Workflows / How to use Argo Workflows](https://speakerdeck.com/makocchi/how-to-use-argo-workflows)
