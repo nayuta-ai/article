@@ -12,6 +12,7 @@
 - [x] [DPDKとは？ ～DPDK入門 第1回～](https://www.ntt-tx.co.jp/column/dpdk_blog/20180920/)
 - [x] [VXLANが登場した理由、他の実装との違い、特徴を整理しよう](https://atmarkit.itmedia.co.jp/ait/spv/1412/03/news009.html)
 - [ ] [OVN(Open Virtual Network)で手作業仮想ネットワーク](https://zenn.dev/callus_corn/articles/fb921908ec357d)
+- [ ] [xdp 入門](https://terassyi.net/posts/2021/10/18/intro-xdp.html)
 
 ## Storage
 - [ ] [virtio-fs](https://static.sched.com/hosted_files/kvmforum2019/ff/virtio-fs_%20A%20Shared%20File%20System%20for%20Virtual%20Machines.pdf)
@@ -72,7 +73,7 @@
 - [ ] [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 
 ## wasm
-- [自作Wasm Runtimeをcontainerdで動かしてみた](https://zenn.dev/skanehira/articles/2023-09-18-rust-wasm-runtime-containerd)
+- [x] [自作Wasm Runtimeをcontainerdで動かしてみた](https://zenn.dev/skanehira/articles/2023-09-18-rust-wasm-runtime-containerd)
 
 ## Cilium or eBPF
 - [ ] [Welcome to Cilium’s documentation!](https://docs.cilium.io/en/stable/#getting-started)
