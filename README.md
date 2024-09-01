@@ -12,7 +12,7 @@
 - [x] [DPDKとは？ ～DPDK入門 第1回～](https://www.ntt-tx.co.jp/column/dpdk_blog/20180920/)
 - [x] [VXLANが登場した理由、他の実装との違い、特徴を整理しよう](https://atmarkit.itmedia.co.jp/ait/spv/1412/03/news009.html)
 - [ ] [OVN(Open Virtual Network)で手作業仮想ネットワーク](https://zenn.dev/callus_corn/articles/fb921908ec357d)
-- [ ] [xdp 入門](https://terassyi.net/posts/2021/10/18/intro-xdp.html)
+- [x] [xdp 入門](https://terassyi.net/posts/2021/10/18/intro-xdp.html)
 
 ## Storage
 - [ ] [virtio-fs](https://static.sched.com/hosted_files/kvmforum2019/ff/virtio-fs_%20A%20Shared%20File%20System%20for%20Virtual%20Machines.pdf)
