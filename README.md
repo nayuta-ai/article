@@ -1,4 +1,6 @@
 # article
+## language
+- [x] [Neovim の LSP を設定するための基本知識](https://zenn.dev/vim_jp/articles/40b2c348386f88)
 ## Distributed System
 - [x] [コンテナ・デザイン・パターンの論文要約](https://qiita.com/MahoTakara/items/03fc0afe29379026c1f3)
 ## Low Layer
