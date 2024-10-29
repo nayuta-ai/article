@@ -69,6 +69,7 @@
 - [ ] [Goの言語仕様書精読のススメ & 英語彙集](https://zenn.dev/hsaki/articles/gospecdictionary#%E8%8B%B1%E8%AA%9E%E8%BE%9E%E6%9B%B8)
 - [ ] [Go runtimeの内部実装を覗きながら、チャンネルのことを知る](https://qiita.com/zreactor/items/1cef0c7ba31aac5402bb)
 - [x] [gomockを完全に理解する](https://zenn.dev/sanpo_shiho/articles/01da627ead98f5)
+- [x] [Go1.21 log/slogパッケージ超入門](https://zenn.dev/88888888_kota/articles/7e97ff874083cf)
 
 ## sh
 - [ ] [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
