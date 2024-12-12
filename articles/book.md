@@ -1,8 +1,6 @@
 ## Book
 - [ ] [Learning eBPF](https://cilium.isovalent.com/hubfs/Learning-eBPF%20-%20Full%20book.pdf)
-- [ ] [Learning OpenTelemetry](https://www.oreilly.com/library/view/learning-opentelemetry/9781098147174/)
 - [ ] [Go言語で作って理解する  Raftベース Redis互換KVS]（https://techbookfest.org/product/nvCYxrw1szsgJThN9HQTyd?productVariantID=wC0ZbcNHCPwUpPyk3TmTUX）
-- [ ] [Prometheus実践ガイド: クラウドネイティブな監視システムの構築](https://techbookfest.org/product/42ij8RQr1VLyLQvU23JpSV?productVariantID=kZY8D43sX5z155nKvzYcq8)
 - [ ] [OAuth・OIDCの攻撃と対策を整理して理解できる本（リダイレクトへの攻撃編)](https://techbookfest.org/product/6566152490713088?productVariantID=5462135828119552)
 - [ ] [OAuth、OAuth認証、OpenID Connectの違いを整理して理解できる本[2024改訂]](https://techbookfest.org/product/4885634867003392?productVariantID=6565720896831488)
 - [x] [雰囲気でOAuth2.0を使っているエンジニアがOAuth2.0を整理して、手を動かしながら学べる本](https://techbookfest.org/product/5704912797171712?productVariantID=5812213461811200)

@@ -89,7 +89,3 @@
 ## Service Mesh
 - [ ] [Envoyでサービスメッシュを作ろう](https://qiita.com/rerorero/items/0eea0e02955950dd85fc)
 - [ ] [Ambient mesh: can sidecar-less Istio make your application faster?](https://www.cncf.io/blog/2024/08/23/ambient-mesh-can-sidecar-less-istio-make-your-application-faster/)
-
-## Log
-- [x] [Grafana Lokiで始めるPodログ/k8s Events管理](https://speakerdeck.com/nutslove/k8s-eventsguan-li) 
-
