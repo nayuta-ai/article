@@ -8,5 +8,8 @@
 - [ ] [Grafana Loki Deep Dive](https://taisho6339.gitbook.io/grafana-loki-deep-dive)
 ## Metrics
 - [ ] [Prometheus実践ガイド: クラウドネイティブな監視システムの構築](https://techbookfest.org/product/42ij8RQr1VLyLQvU23JpSV?productVariantID=kZY8D43sX5z155nKvzYcq8)
+### tsdb
+- [ ] [Prometheus TSDB (Part 1): The Head Block](https://ganeshvernekar.com/blog/prometheus-tsdb-the-head-block/)
+
 ## Article
 - [x] [TEMPLE: Six Pillars of Observability](https://medium.com/@YuriShkuro/temple-six-pillars-of-observability-4ac3e3deb402)
