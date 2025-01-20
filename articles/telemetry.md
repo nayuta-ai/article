@@ -5,6 +5,7 @@
 - [ ] [Learning OpenTelemetry](https://www.oreilly.com/library/view/learning-opentelemetry/9781098147174/)
 ## Log
 - [x] [Grafana Lokiで始めるPodログ/k8s Events管理](https://speakerdeck.com/nutslove/k8s-eventsguan-li)
+- [ ] [Grafana Loki Deep Dive](https://taisho6339.gitbook.io/grafana-loki-deep-dive)
 ## Metrics
 - [ ] [Prometheus実践ガイド: クラウドネイティブな監視システムの構築](https://techbookfest.org/product/42ij8RQr1VLyLQvU23JpSV?productVariantID=kZY8D43sX5z155nKvzYcq8)
 ## Article
